@@ -1,4 +1,4 @@
-public class Zzzz
+public class Tired
 {
 	public static void main(String[] args)
 	{
